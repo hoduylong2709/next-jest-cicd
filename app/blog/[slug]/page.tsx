@@ -12,7 +12,7 @@ export default async function Page({ params }: PageProps) {
   return (
       <>
         <h1>Slug: {slug}</h1>
-        <p>longho</p>
+        <p>long ho</p>
         <p>Welcome to Hue</p>
       </>
   );
